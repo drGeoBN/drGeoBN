@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @drGeoBN
-- 👀 I’m interested in free form jazz and linux
-- 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me daniel.rasmussen@bonniernews.se
+👋 Hi, I’m Daniel Rasmussen (@drGeoBN)
 
-<!---
-drGeoBN/drGeoBN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Software Developer at Bonnier News  
+🛠️ Focus areas: backend development, data pipelines, cloud infrastructure
+
+🔧 Tech I work with:
+- Node.js, Python
+- GCP (Cloud Run, BigQuery, Pub/Sub)
+- APIs, automation, infrastructure-as-code
+
+🎷 Background in music (jazz saxophone) — strong focus on structure, practice, and problem decomposition.
+
+📫 Reach me via internal channels or email: daniel.rasmussen@bonniernews.se
